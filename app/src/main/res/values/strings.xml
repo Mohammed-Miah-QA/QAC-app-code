@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QAC_app</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="signiture">Signiture</string>
+    <string name="passport_issue">Passport Issue Date (dd/mm/yyyy)</string>
+    <string name="passport_location">Passport Location</string>
+    <string name="passport_expiry_date">Passport Expiry Date (dd/mm/yyyy)</string>
+    <string name="geographical_flexibility">Geographical Flexibility</string>
+    <string name="ccj_status">Do you have any CCJ</string>
+    <string name="save_info">Save Info</string>
+    <string name="send_info">Send Info to QAC</string>
+    <string name="saved_data">saved_data</string>
+</resources>
